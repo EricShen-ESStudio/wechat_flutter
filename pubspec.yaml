@@ -53,7 +53,7 @@ dependencies:
   photo_view: 0.4.2
   #  dio: 2.2.2  #低于Flutter-1.17使用此版本
   #  dio: 3.0.9  #1.22.5版本Flutter用这个
-  dio: ^4.0.0 #Flutter2用这个
+  dio: ^5.0.3 #Flutter2用这个
   #打开文件
   open_file: 2.0.3
   #获取包信息
